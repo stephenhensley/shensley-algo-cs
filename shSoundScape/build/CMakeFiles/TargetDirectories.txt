@@ -1,0 +1,1 @@
+/Users/stephenhensley/myGit/shensley-algo-cs/shSoundScape/build/CMakeFiles/shSoundScape.dir
