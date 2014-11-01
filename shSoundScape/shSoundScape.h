@@ -31,7 +31,7 @@ typedef struct note{
 
 //function prototypes
 uintptr_t performance_function(void* data);
-struct note defineScore(note n[], float noteIndex[][12], int totalDuration, int densityFactor, int numberNotes);
+void defineScore(note n[], float noteIndex[][12], int totalDuration, int densityFactor, int numberNotes);
 char* writeScore(note notes[], int numberNotes, int totalDuration);
 
 //additional function prototypes
